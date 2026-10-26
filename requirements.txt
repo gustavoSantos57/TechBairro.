@@ -1,0 +1,9 @@
+A TechBairro não possui dependências externas.
+
+Utiliza apenas módulos da biblioteca padrão do Python.
+
+tkinter: criação da interface gráfica.
+
+sqlite3: conexão e operações com o banco de dados SQLite.
+
+os: manipulação de caminhos e arquivos do sistema.
