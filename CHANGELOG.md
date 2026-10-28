@@ -1,4 +1,10 @@
 changelog da techbairro
+## v3.3.2 (Aula 27)
+### Adicionado
+- README com requisitos, instalação e configuração do banco.
+- Arquivo requirements.txt.
+- Manual de uso em docs/manual_de_uso.md.
+- Registro de testes em docs/registro_de_testes.md.
 ## v3.2.1 (Aula 18)
 ### Alterado
 - O número da versão passou a ficar 3.2.1.
